@@ -9,8 +9,8 @@ This provides a set of notebooks that are described in the Medium article, Using
 
 ## Notebooks
 
-*Version_1* provides a solution that trains both the cat and mouse. This assumes a known, fixed, and reasonably small board size. It develops a policy for each player based on the location of the cat and location of the mouse on the board.
+**Version_1** provides a solution that trains both the cat and mouse. This assumes a known, fixed, and reasonably small board size. It develops a policy for each player based on the location of the cat and location of the mouse on the board.
 
-*Version 2* provides a more general solution, which can handle any board size. However, for simplicity this trains only the cat, and only for situtations where the cat and mouse are close to each other on the board (including where the cat may be close to cornering the mouse). 
+**Version 2** provides a more general solution, which can handle any board size. However, for simplicity this trains only the cat, and only for situtations where the cat and mouse are close to each other on the board (including where the cat may be close to cornering the mouse). 
 
 
