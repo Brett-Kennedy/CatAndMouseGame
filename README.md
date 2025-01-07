@@ -5,6 +5,8 @@ In this game, we have two players, the cat and mouse, placed on an n x m grid, s
 
 The cat wins if it's able to capture the mouse, which is achieved by moving to the same cell the mouse is on. The mouse wins by evading capture for sufficiently long.
 
+![image](https://github.com/Brett-Kennedy/CatAndMouseGame/blob/main/images/catandmouse.png)
+
 This provides a set of notebooks that are described in the Medium article, Using optimization to solve adversarial problems.
 
 ## Notebooks
